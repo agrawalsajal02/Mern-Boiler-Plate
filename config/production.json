@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sajal:admin123@cluster0.9iunk.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtToken": "mysecretkey",
+  "githubclientid": "cf033b47e47e311124",
+  "githubsecret": "372d07885ab72e5a883a4fb8e32897124b9aa9"
+}
