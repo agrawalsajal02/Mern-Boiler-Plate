@@ -5,6 +5,6 @@ Boiler Plate for Mern Applications
 ## Step1
 npm install
 
-## step 2
+## Step 2
 cd client
 npm install
